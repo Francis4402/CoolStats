@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Francis4402/CoolStats/master/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
